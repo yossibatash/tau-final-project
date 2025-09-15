@@ -210,35 +210,6 @@ matplotlib==3.7.2
 pyspark (via findspark==2.0.1)
 ```
 
-## 🔍 Research Insights
-
-1. **Sentiment Impact**: News sentiment provides marginal improvement over pure technical analysis
-2. **Timeframe Sensitivity**: Lower frequency (15-min) models show better performance than high-frequency (1-min) models
-3. **Feature Importance**: Price-based features dominate, but sentiment features add value during high-volatility periods
-4. **Market Regime**: Model performance varies significantly across different market conditions
-
-## 🚧 Limitations & Future Work
-
-### Current Limitations
-- Limited to SPY index (single asset)
-- Simple trading strategy (could be enhanced)
-- No transaction cost modeling
-- Limited backtesting period
-
-### Future Enhancements
-- Multi-asset portfolio optimization
-- Advanced sentiment analysis (transformer models)
-- Reinforcement learning for strategy optimization
-- Real-time prediction and trading
-- Risk management integration
-
-## ❗ Troubleshooting
-
-- Jupyter uses wrong interpreter: In Jupyter, select the kernel that points to `venv` (Kernel → Change kernel).
-- Alpha Vantage rate limits: Add sleeps/retries or split requests across time windows.
-- TensorFlow on macOS: If you see CPU-only performance, consider installing `tensorflow-metal` for Apple GPUs.
-- File paths: If notebooks cannot find data, verify the base path to `data/` and update the config cell.
-
 ## 📄 License
 
 This project is part of academic research at Tel Aviv University. Please cite appropriately if using for research purposes.
@@ -246,12 +217,6 @@ This project is part of academic research at Tel Aviv University. Please cite ap
 ## 🤝 Contributing
 
 This is an academic project, but suggestions and improvements are welcome. Please feel free to open issues or submit pull requests.
-
-## 📞 Contact
-
-**Tel Aviv University - Master's Degree Final Project**
-
-For questions or collaboration opportunities, please reach out through the university channels.
 
 ---
 
