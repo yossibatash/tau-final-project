@@ -1,0 +1,25 @@
+{
+    "Data_Resolution": "5min",
+    "Prediction_Accuracy": {
+        "MAE": 0.31905202657645576,
+        "RMSE": 0.49713126640083855,
+        "Directional_Accuracy": "49.29%"
+    },
+    "Computational_Efficiency": {
+        "Training_Time": "667.82 seconds",
+        "Average_Inference_Time": "0.1690 ms/prediction",
+        "Total_Predictions_Made": "10,431"
+    },
+    "Trading_Simulation": {
+        "Initial_Capital": "$10,000.00",
+        "Final_Portfolio_Value": "$15,586.88",
+        "Cumulative_Return": "55.87%",
+        "Sharpe_Ratio": "0.062",
+        "Maximum_Drawdown": "-2.94%",
+        "Total_Trades": 117,
+        "BUY_signals": 59,
+        "SELL_signals": 58,
+        "HOLD_periods": 10314,
+        "Simulation_Directional_Accuracy": "47.41%"
+    }
+}
