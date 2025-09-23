@@ -1,0 +1,14 @@
+{
+    "Data_Resolution": "1min",
+    "Initial_Close_Price": "397.68",
+    "Final_Close_Price": "411.85",
+    "Initial_Capital": "$10,000.00",
+    "Final_Portfolio_Value": "$10,356.27",
+    "Cumulative_Return": "3.56%",
+    "Sharpe_Ratio": "0.002",
+    "Maximum_Drawdown": "-8.52%",
+    "Total_Trades": 1,
+    "BUY_signals": 1,
+    "SELL_signals": 0,
+    "HOLD_periods": 47203
+}
