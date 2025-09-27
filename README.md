@@ -29,13 +29,13 @@ This project explores the integration of financial market data with news sentime
 - **Trading Simulation**: Automated buy/sell/hold strategy with backtesting.
 - **Scalable Processing**: Apache Spark for large-scale data processing.
 
-## 🚀 Performance Results
+## 🚀 Performance Results	
 
 | Model | Time Frame | Initial Capital | Final Value | Profit    | Return |
 |-------|------------|-----------------|-------------|-----------|--------|
-| LSTM  | 1-minute   | $10,000.00      | $11,043.72  | $1,043.72 | 10.44% |
-| LSTM  | 5-minute   | $10,000.00      | $10,728.47  | $728.47   | 7.28%  |
-| LSTM  | 15-minute  | $10,000.00      | $10,370.89  | $370.89   | 3.71%  |
+| LSTM  | 1-minute   | $10,000.00      | $12,087.39  | $2,087.39 | 20.87% |
+| LSTM  | 5-minute   | $10,000.00      | $15,586.88  | $5,586.88 | 55.87% |
+| LSTM  | 15-minute  | $10,000.00      | $18,037.18  | $8,037.18 | 80.37% |
 
 ## 🛠️ Installation
 
