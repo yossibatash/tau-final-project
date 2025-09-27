@@ -7,14 +7,14 @@
     },
     "Computational_Efficiency": {
         "Training_Time": "2539.86 seconds",
-        "Average_Inference_Time": "0.1609 ms/prediction",
+        "Average_Inference_Time": "0.1654 ms/prediction",
         "Total_Predictions_Made": "47,204"
     },
     "Trading_Simulation": {
         "Initial_Capital": "$10,000.00",
         "Final_Portfolio_Value": "$12,087.39",
         "Cumulative_Return": "20.87%",
-        "Sharpe_Ratio": "0.014",
+        "Sharpe_Ratio": "4.893",
         "Maximum_Drawdown": "-2.36%",
         "Total_Trades": 62,
         "BUY_signals": 31,
